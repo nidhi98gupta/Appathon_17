@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_student"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.delli5547.appathon17.Student">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <Button
+            android:id="@+id/btnCalendar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="#428bca"
+            android:text="CAlendar"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnProfile"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="#ea4c"
+            android:text="Profile"
+            android:textColor="@color/white" />
+
+
+        <Button
+            android:id="@+id/btnGallery"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="#ea4c23"
+            android:text="Gallery"
+            android:textColor="@color/white" />
+
+
+
+
+        <Button
+            android:id="@+id/btnComplain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="#26ae50"
+            android:text="Complain"
+            android:textColor="@color/white" />
+
+        <!-- Link to Login Screen -->
+
+    </LinearLayout>
+
+</LinearLayout>

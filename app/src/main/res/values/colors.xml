@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_login2">#26ae90</color>
+    <color name="bg_login">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login2">#222222</color>
+    <color name="input_login2_hint">#999999</color>
+    <color name="input_login">#888888</color>
+    <color name="input_login_bg">#3b4148</color>
+    <color name="input_login_hint">#5e6266</color>
+    <color name="btn_login2">#26ae90</color>
+    <color name="btn_login2_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+    <color name="windowBackground">#DDDFE2</color>
+    <color name="rowBackground">#DDDFE2</color>
+    <color name="dark_headingBackground">#E6E7E9</color>
+    <color name="headingBackground">#F6F7F9</color>
+    <color name="cardBackground">#B2FFF2</color>
+
+    <color name="correct">#FF4CAF50</color>
+    <color name="incorrect">#FFE53935</color>
+    <color name="previous">#FFFF8800</color>
+
+
+    <color name="black">#000000</color>
+    <color name="amber_yellow">#FFC107</color>
+    <color name="red">#e53935</color>
+
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+    <color name="toolbar">#efefef</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="accent">#2789e4</color>
+</resources>

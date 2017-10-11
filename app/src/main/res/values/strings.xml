@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Appathon\'17</string>
+
+    <string-array name="items_array">
+        <item>Extension board</item>
+        <item>tables</item>
+        <item>chairs</item>
+        <item>Lights</item>
+
+    </string-array>
+
+</resources>
